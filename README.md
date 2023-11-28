@@ -21,7 +21,7 @@ Extensive testing has demonstrated the high accuracy of the models in predicting
 ## Getting Started
 
 - Open the MonReader folder
-- Click on the Gradioapp link folder
+- Click on the "Gradio App Link" file
 - Copy paste the link on your browser and try the prototype!
 
 
