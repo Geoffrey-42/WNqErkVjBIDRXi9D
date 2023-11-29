@@ -32,7 +32,7 @@ Through the application of either transfer learning or a custom lightweight CNN 
 
 ## Getting Started
 
-- Open the MonReader folder
+- Open the VideoEventDetection folder
 - Click on the "Gradio App Link" file
 - Copy paste the link on your browser and try the prototype!
 
