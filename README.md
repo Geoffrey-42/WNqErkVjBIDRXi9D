@@ -2,11 +2,14 @@
 This work is part of the development of a new mobile application for the blind or anyone who wishes to scan and read document in bulk.
 All the user has to do is to flip pages and the phone camera will automatically detect the page flipping event, scan the new pages and perform an OCR.
 
+## Objective
+The goal is to detect flipping events in videos or sequences of images of pages seen from a phone camera.
+
 ## Dataset
 A dataset of images labeled as "flip" or "notflip" is used, containing pictures of pages being flipped or not flipped.
 
 ## Methodology
-To detect flipping events in videos or sequences of images, the selected approach involves training a model to classify images of pages based on whether they are being flipped.
+The selected approach involves training a model to classify images of pages based on whether they are being flipped.
 
 Using Tensorflow, transfer learning techniques were employed to fine-tune existing Convolutional Neural Network (CNN) architectures such as VGG16, MobileNetv2, and ResNet50.
 
