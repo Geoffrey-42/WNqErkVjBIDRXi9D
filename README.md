@@ -18,7 +18,7 @@ The custom model was prototyped using Gradio, resulting in a permanent interface
 ## Results
 High accuracy of the models in predicting page flipping actions was observed on the test set, showcasing their effectiveness.
 
-Through the applicatio of either transfer learning or a custom lightweight CNN architecture the mobile app can achieve fully automatic and fast document scanning, rendering it a valuable tool for diverse user groups.
+Through the application of either transfer learning or a custom lightweight CNN architecture, the mobile app can achieve fully automatic and fast document scanning, rendering it a valuable tool for diverse user groups.
 
 ## Features
 
