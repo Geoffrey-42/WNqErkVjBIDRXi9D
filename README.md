@@ -16,7 +16,8 @@ The much smaller size of the model results in faster predictions and is more ada
 The custom model was prototyped using Gradio, resulting in a permanent interface that can be accessed through a web browser. Through this web interface, users can conveniently utilize the models and obtain predictions.
 
 ## Results
-Extensive testing has demonstrated the high accuracy of the models in predicting page flipping actions on the test set, showcasing their effectiveness. The dual use of transfer learning and the custom lightweight CNN architecture allows MonReader to achieve fully automatic, fast, and high-quality document scanning, rendering it a valuable tool for diverse user groups.
+Extensive testing has demonstrated the high accuracy of the models in predicting page flipping actions on the test set, showcasing their effectiveness. 
+The dual use of transfer learning and the custom lightweight CNN architecture allows MonReader to achieve fully automatic, fast, and high-quality document scanning, rendering it a valuable tool for diverse user groups.
 
 ## Features
 
