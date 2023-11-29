@@ -11,7 +11,7 @@ To detect flipping events in videos or sequences of images, the selected approac
 Using Tensorflow, transfer learning techniques were employed to fine-tune existing Convolutional Neural Network (CNN) architectures such as VGG16, MobileNetv2, and ResNet50.
 
 Additionally, a custom lightweight CNN architecture was specifically designed for this task. 
-The much smaller size of the model results in faster predictions and is more adapted for a use on a mobile phone with limited space and computational capacities.
+The much smaller size of the model results in faster predictions and is more adapted for a use on a mobile phone with limited storage space and computational capacities.
 
 The custom model was prototyped using Gradio, resulting in a permanent interface that can be accessed through a web browser. Through this web interface, users can conveniently utilize the models and obtain predictions.
 
