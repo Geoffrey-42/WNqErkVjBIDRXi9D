@@ -7,8 +7,12 @@ A dataset of images labeled as "flip" or "notflip" is used, containing pictures 
 
 ## Methodology
 In order to detect when a flipping event occurs in a video or a sequence of images, the chosen approach is to train a model to label a picture of pages as to whether a page is being flipped.
+
 Using Tensorflow, transfer learning techniques were employed to fine-tune existing Convolutional Neural Network (CNN) architectures such as VGG16, MobileNetv2, and ResNet50.
-Additionally, a custom lightweight CNN architecture was specifically designed for this task. The much smaller size of the model results in faster predictions and is more adapted for a use on a mobile phone with limited space and computational capacities.
+
+Additionally, a custom lightweight CNN architecture was specifically designed for this task. 
+The much smaller size of the model results in faster predictions and is more adapted for a use on a mobile phone with limited space and computational capacities.
+
 The custom model was prototyped using Gradio, resulting in a permanent interface that can be accessed through a web browser. Through this web interface, users can conveniently utilize the models and obtain predictions.
 
 ## Results
