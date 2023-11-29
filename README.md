@@ -6,7 +6,7 @@ All the user has to do is to flip pages and the phone camera will automatically 
 A dataset of images labeled as "flip" or "notflip" is used, containing pictures of pages being flipped or not flipped.
 
 ## Methodology
-In order to detect when a flipping event occurs in a video or a sequence of images, the chosen approach is to train a model to label a picture of pages as to whether a page is being flipped.
+To identify flipping events in videos or sequences of images, the selected approach involves training a model to classify images of pages based on whether they are being flipped.
 
 Using Tensorflow, transfer learning techniques were employed to fine-tune existing Convolutional Neural Network (CNN) architectures such as VGG16, MobileNetv2, and ResNet50.
 
