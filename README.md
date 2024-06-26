@@ -1,4 +1,4 @@
-# VideoEventDetection
+# Video Event Detection and Action Identification
 This work is part of the development of a new mobile application for the blind or anyone who wishes to scan and read document in bulk.
 All the user has to do is to flip pages and the phone camera will automatically detect the page flipping event, scan the new pages and perform an OCR.
 
